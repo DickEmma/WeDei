@@ -1,8 +1,8 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# WeDei - A Platfrom for all your data editing and manipulation needs, and so much more.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+I wanted to give back to the society, hence this site, if you are hungry for data analysis, hang on.
 
 So far we've got:
 
@@ -12,21 +12,16 @@ So far we've got:
 - Dynamic pages.
 - PWA ready.
 - SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
+- Signup form (using WeDei Forms).
 
 Few things I'd like to add in the future:
+ 
+ SQL guides and links to Youtube video
+ 
+- Contact form
+- Dynamic sections
 
-- Contact form under \_slug.
-- Dynamic sections/widgets.
 - Responsive CSS markdown.
-- Tests
-
-## Quickstart
-
-### Prerequisites
-
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
 - [Node.js](https://nodejs.org/en/)
 
